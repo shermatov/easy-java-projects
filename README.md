@@ -1,7 +1,7 @@
 # easy-java-projects
 
 
-// Create a program that implements a simple mobile phone with the following capabilities.
+1. Create a program that implements a simple mobile phone with the following capabilities. %n
         // Able to store, modify, remove and query contact names.
         // You will want to create a separate class for Contacts (name and phone number).
         // Create a master class (MobilePhone) that holds the ArrayList of Contacts
